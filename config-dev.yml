@@ -1,2 +1,3 @@
 config:
     info: springcloud-dev-hehe
+    version: 1.0
