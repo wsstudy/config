@@ -1,2 +1,3 @@
 config:
     info: springcloud-prod-haha
+    version: 1.0
